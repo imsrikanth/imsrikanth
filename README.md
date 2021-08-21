@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @imsrikanth
 - 👀 I’m interested in contibuting to open source
-- 🌱 I’m currently learning designing
-- 💞️ I’m looking to collaborate on multimedia editing
+- 🌱 I’m currently learning embedded systems and IoT
 - 📫 How to reach me - srikanthseeram047@gmail.com
 
 <!---
