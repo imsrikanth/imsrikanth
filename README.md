@@ -42,7 +42,7 @@
 <a href="https://twitter.com/imsrikanths" target="_blank">
   <img align="center" alt="Srikanth | Twitter" width="30px" src="https://github.com/imsrikanth/imsrikanth/blob/main/assets/icons/twitter-logo.png" />
 </a> &nbsp;&nbsp;
-  <a href="https://www.facebook.com/profile.php?id=100013628134596">
+  <a href="https://www.facebook.com/imSrikanthS">
   <img align="center" alt="Srikanth | Facebook" width="30px" src="https://github.com/imsrikanth/imsrikanth/blob/main/assets/icons/facebook.png" />
     </a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/imsrikanthsri/" target="_blank">
