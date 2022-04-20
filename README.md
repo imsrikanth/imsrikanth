@@ -53,7 +53,7 @@
 </a> &nbsp;&nbsp;
 <p>
   <div align="center">
-  <h4><b>MailID : srikanthseeram047@gmail.com</b></h4>
+  <h4><b>Mail ID : srikanthseeram047@gmail.com</b></h4>
   </div>
   
 <!---
