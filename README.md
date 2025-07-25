@@ -10,9 +10,9 @@
 
 - Electronics, Technology Enthusiast
 - Lives in 🇮🇳 INDIA 🇮🇳
-- Internet Researcher, OpenSource Contributer 
+- Java Developer 
 - Astrophile 🔭🌠🤩
-- 🧡 Movies📽️ Cricket🏏 Music🎵
+- 🧡 Movies📽️ Sports🏏 Music🎵
 
 
   
