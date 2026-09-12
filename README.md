@@ -2,7 +2,7 @@
   <h3><b>Hello there...</b></h3>
   </div>
 <div align="center">
-  <h3><b>i'm</b></h3>
+  <h3><b>I'm</b></h3>
   </div>
 <p align="center">
   <img align="center" alt="Srikanth | Name" width="200px" src="https://github.com/imsrikanth/imsrikanth/blob/main/assets/icons/name.gif" />
