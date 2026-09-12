@@ -8,7 +8,11 @@
   <img align="center" alt="Srikanth | Name" width="200px" src="https://github.com/imsrikanth/imsrikanth/blob/main/assets/icons/name.gif" />
 </a> &nbsp;&nbsp;
 
-- Electronics, Technology Enthusiast
+* ☕ Java Backend Developer · 🧠 AI/LLM Explorer · 🛠️ Builder
+
+* I build backend systems, explore how things work under the hood, and lately I'm diving deeper into AI, LLMs, AI agents, and AI-assisted software engineering.
+
+- Technology Enthusiast
 - Lives in 🇮🇳 INDIA 🇮🇳
 - Java Developer 
 - Astrophile 🔭🌠🤩
